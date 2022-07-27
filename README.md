@@ -1,2 +1,3 @@
-# fix-link-error
-A repository for fixing the error encountered with nbgitpuller links and file mismatch.
+# Fixing `nbgitpuller` link errors
+
+A repository for fixing the errors encountered with nbgitpuller links and file mismatch.
